@@ -1,7 +1,7 @@
 # Hi, I'm Michael! 👋
 
 🔍 **About Me:**  
-Currently pursuing a master's in Computational Science at Georgia Tech. I specialize in using computational methods to address intricate challenges—a fusion of engineer, scientist, and developer.
+Currently pursuing a master's in Computational Science at Georgia Tech. I specialize in using computational methods to address intricate challenges.
 
 💻 **Technical Proficiency:**  
 - **Programming Languages:** Proficient in Python, Java, JavaScript, and C++.
