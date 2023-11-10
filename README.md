@@ -7,7 +7,7 @@ Currently pursuing a master's in Computational Science at Georgia Tech. I specia
 - **Programming Languages:** Proficient in Python, Java, JavaScript, and C++.
 - **Back-End & Frameworks:** Strong background in Node.js, Spring Framework, and RESTful APIs.
 - **Front-End Development:** Skilled in HTML, CSS, React.js, and jQuery to create responsive and interactive web applications.
-- **Databases & Data Formats:** Versed in MySQL, MongoDB, NoSQL, JSON, and XML.
+- **Databases & Data Formats:** Versed in MySQL, NoSQL, JSON, and XML.
 - **DevOps & System Administration:** Experienced with Git, Linux, AWS, Windows Server, and Bash scripting.
 - **Software Development Practices:** Well-versed in Object-Oriented Programming (OOP) and cybersecurity.
 - **Tools:** Highly efficient with Eclipse as an IDE for development.
