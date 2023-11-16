@@ -12,9 +12,6 @@ Currently pursuing a master's in Computational Science at Georgia Tech. I specia
 - **Software Development Practices:** Well-versed in Object-Oriented Programming (OOP) and cybersecurity.
 - **Tools:** Highly efficient with Eclipse as an IDE for development.
 
-🎯 **Objective:**  
-Seeking a Software Development Engineer (SDE) internship to leverage my skills and solve real-world problems.
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MichaelWong1024&show_icons=true&count_private=true&theme=darcula&hide_rank=true&hide_border=true&bg_color=00000000">
   <img height="50%" width="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MichaelWong1024&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=10">
