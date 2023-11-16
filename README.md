@@ -1,4 +1,4 @@
-# Hi, I'm Michael!
+# Hi, I'm Michael
 
 🔍 **About Me:**  
 Currently pursuing a master's in Computational Science at Georgia Tech. I specialize in using computational methods to address intricate challenges.
