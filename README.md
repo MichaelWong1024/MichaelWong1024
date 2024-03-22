@@ -11,7 +11,7 @@
 </p>
 
 🔍 **About Me:**  
-Currently pursuing a master's in Computational Science at Georgia Tech.
+Currently pursuing a master's in Computer Science at Georgia Tech.
 
 💻 **Technical Proficiency:**  
 - **Programming Languages:** Proficient in Python, Java, JavaScript, and C++.
