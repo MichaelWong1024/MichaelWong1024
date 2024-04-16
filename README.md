@@ -1,4 +1,4 @@
-# Hi, I'm Michael
+# # Hello world :earth_asia:, I'm Michael
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MichaelWong1024&show_icons=true&count_private=true&theme=darcula&hide_rank=true&hide_border=true&bg_color=00000000">
