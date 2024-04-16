@@ -1,4 +1,4 @@
-# Hello wWorld :earth_asia:, I'm Michael
+# Hello World :earth_asia:, I'm Michael
 
 ![GitHub followers](https://img.shields.io/github/followers/MichaelWong1024?style=social)
 
