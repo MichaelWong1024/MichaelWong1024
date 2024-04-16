@@ -15,7 +15,9 @@
 🔍 **About Me:**  
 I'm a 1st year master's student at [Georgia Institute of Technology](https://www.gatech.edu/) in [Computer Science](https://www.cc.gatech.edu/degree-programs/master-science-computer-science). I chose my Area	of Specialization in [High Performance Computing Systems](https://www.cc.gatech.edu//sites/default/files/documents/2021/highperformancecomputing.pdf). (BTW you can find the other specializations [here](https://www.cc.gatech.edu/ms-computer-science-specializations), if you are interested😎)
 
-💻 **Technical Proficiency:**  
+📫 How to reach me: mhuang339[at]gatech[dot]edu
+
+<!--💻 **Technical Proficiency:**  
 - **Programming Languages:** Proficient in Python, Java, JavaScript, and C++.
 - **Back-End & Frameworks:** Strong background in Node.js, Spring Framework, and RESTful APIs.
 - **Front-End Development:** Skilled in HTML, CSS, React.js, and jQuery to create responsive and interactive web applications.
@@ -23,3 +25,4 @@ I'm a 1st year master's student at [Georgia Institute of Technology](https://www
 - **DevOps & System Administration:** Experienced with Git, Linux, AWS, Windows Server, and Bash scripting.
 - **Software Development Practices:** Well-versed in Object-Oriented Programming (OOP) and cybersecurity.
 - **Tools:** Efficient with Eclipse IDE for development.
+-->
