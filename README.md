@@ -8,7 +8,9 @@ Hey there, my ![Visitor Count](https://profile-counter.glitch.me/MichaelWong1024
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MichaelWong1024&show_icons=true&count_private=true&theme=darcula&hide_rank=true&hide_border=true&bg_color=00000000">
 <!--   <img height="50%" width="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MichaelWong1024&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=10"> -->
-  <img align='right' src='https://github-readme-stats.vercel.app/api/top-langs/?username=molindeng&layout=compact&hide=scss,hcl,Tcl&langs_count=5&theme=tokyonight' width='400px'>
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=MichaelWong1024&show_icons=true&count_private=true&theme=darcula&hide_rank=true&hide_border=true&hide=issues,contribs&bg_color=00000000">
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=MichaelWong1024&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=7&hide=jupyter%20notebook,tex,css,php,html,objective-c,yacc,processing,lex,makefile,cmake,qml,plsql">
+
   <img src="https://github-readme-streak-stats.herokuapp.com?user=MichaelWong1024&theme=darcula&hide_border=true&background=FFFFFF00">
   <br>
   <br>
