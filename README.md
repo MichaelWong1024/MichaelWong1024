@@ -2,7 +2,7 @@ Hey there, my ![Visitor Count](https://profile-counter.glitch.me/MichaelWong1024
 
 📫 Reach me at: mhuang339[at]gatech[dot]edu
 
-## About My Github
+### About My Github
 ![GitHub followers](https://img.shields.io/github/followers/MichaelWong1024?style=social)
 
 <p align="center">
