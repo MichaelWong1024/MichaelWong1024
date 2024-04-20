@@ -15,7 +15,7 @@ My ![Visitor Count](https://profile-counter.glitch.me/MichaelWong1024/count.svg)
   <a href="https://michaelwong1024.github.io/" target="_blank"><img align="center" src="https://img.shields.io/badge/-Personal%20Website%20-282A36?style=plastic&labelColor=BD93F9&logo=monoprix&link=https://michaelwong1024.github.io/" alt="Personal Website Badge"></a> 
 </p>
 
-🔍 **About Me:**  
+# About Me🔍
 I'm a 1st year master's student at [Georgia Tech](https://www.gatech.edu/) in [Computer Science](https://www.cc.gatech.edu/degree-programs/master-science-computer-science). I chose my Area	of Specialization in [High Performance Computing Systems](https://www.cc.gatech.edu//sites/default/files/documents/2021/highperformancecomputing.pdf). (BTW you can find the other specializations [here](https://www.cc.gatech.edu/ms-computer-science-specializations), if you are interested🤔)
 
 📫 How to reach me: mhuang339[at]gatech[dot]edu
