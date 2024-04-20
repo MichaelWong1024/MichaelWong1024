@@ -29,4 +29,4 @@ I'm a 1st year master's student at [Georgia Tech](https://www.gatech.edu/) in [C
 - **Tools:** Efficient with Eclipse IDE for development.
 -->
 
-<img src="[https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif](https://giphy.com/gifs/joebonamassa-bonamassa-joe-smokin-uUdwiBhXdDdQDZFP8n)" width="50">
+<img src="https://giphy.com/gifs/joebonamassa-bonamassa-joe-smokin-uUdwiBhXdDdQDZFP8n" width="50">
