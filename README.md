@@ -1,4 +1,4 @@
-Hey there, my ![Visitor Count](https://profile-counter.glitch.me/MichaelWong1024/count.svg) visitor, I'm Michael:earth_asia:
+Hey there, my ![Visitor Count](https://profile-counter.glitch.me/MichaelWong1024/count.svg) visitor, I'm Michael :earth_asia:
 
 📫 How to reach me: mhuang339[at]gatech[dot]edu
 
