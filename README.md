@@ -1,4 +1,5 @@
 # Hello World :earth_asia:, I'm Michael
+My ![Visitor Count](https://profile-counter.glitch.me/MichaelWong1024/count.svg) visitor
 
 ![GitHub followers](https://img.shields.io/github/followers/MichaelWong1024?style=social)
 
