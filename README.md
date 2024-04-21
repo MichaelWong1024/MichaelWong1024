@@ -1,6 +1,6 @@
-Hey there, my ![Visitor Count](https://profile-counter.glitch.me/MichaelWong1024/count.svg) visitor, I'm Michael :earth_asia:
+Hey there, my ![Visitor Count](https://profile-counter.glitch.me/MichaelWong1024/count.svg) visitor, I'm Michael <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40">
 
-📫 Reach me at: mhuang339[at]gatech[dot]edu
+:earth_asia: Reach me at: mhuang339[at]gatech[dot]edu
 
 ### About My Github
 
