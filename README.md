@@ -16,7 +16,7 @@ Hey there, my ![Visitor Count](https://profile-counter.glitch.me/MichaelWong1024
 </p>
 
 ### 🔍About Me
-I'm a 1st year master's student at [Georgia Tech](https://www.gatech.edu/) in [Computer Science](https://www.cc.gatech.edu/degree-programs/master-science-computer-science). I chose my Area	of Specialization in [High Performance Computing Systems](https://www.cc.gatech.edu//sites/default/files/documents/2021/highperformancecomputing.pdf). (BTW you can find the other specializations [here](https://www.cc.gatech.edu/ms-computer-science-specializations), if you are interested🤔)
+I'm a 1st year master's student at [Georgia Tech](https://www.gatech.edu/) in [Computer Science](https://www.cc.gatech.edu/degree-programs/master-science-computer-science). I chose my Area	of Specialization in [High Performance Computing Systems](https://www.cc.gatech.edu//sites/default/files/documents/2021/highperformancecomputing.pdf). (BTW1 I'm also taking courses from [Machine Learning tracks](https://www.cc.gatech.edu/approved-substitutions-specialization-machine-learning-electives)! BTW2 you can find the other specializations [here](https://www.cc.gatech.edu/ms-computer-science-specializations), if you are interested🤔)
 
 Fun Facts: I have a Gibson and have been playing it as a lead guitar since my first year of high school!
 
